@@ -1,7 +1,7 @@
 # assets
 a collection of misc assets used in various personal projects
 
-## How to Use
+## how to Use
 
 1. **directly**
 ```
