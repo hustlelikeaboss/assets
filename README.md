@@ -1,6 +1,15 @@
 # assets
+a collection of misc assets used in various personal projects
 
-To use an asset from this repo in your project:
+## How to Use
+
+1. **directly**
+```
+https://raw.githubusercontent.com/hustlelikeaboss/assets/master/FILE_PATH
+```
+
+2. **with jsdelivr**
 ```
 https://cdn.jsdelivr.net/gh/hustlelikeaboss/assets/FILE_PATH
 ```
+
